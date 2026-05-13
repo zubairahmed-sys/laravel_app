@@ -51,7 +51,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Jumppace</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Zubair Ahmed Khan testing_laravel_app. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                    Zubair_Ahmed Khan testing_laravel_app. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
                                 </p>
                             </div>
 
